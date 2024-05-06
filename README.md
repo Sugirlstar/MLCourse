@@ -14,10 +14,13 @@ This is the repository to store necesssary materials and scripts to do some ML p
 https://colab.research.google.com/drive/1tRzL1GGOJDgz7CHSY1HECd4IwNAjuip5?usp=sharing
 
 ## [3] SVM
+* reference:
 https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.07-Support-Vector-Machines.ipynb#scrollTo=R1b47sY_HukY
 
 ## [4] K-means clustering
+* reference:
 https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_digits.html#sphx-glr-auto-examples-cluster-plot-kmeans-digits-py
 
 ## [5] DBScan clustering
+* reference:
 https://scikit-learn.org/stable/auto_examples/cluster/plot_dbscan.html#sphx-glr-auto-examples-cluster-plot-dbscan-py
